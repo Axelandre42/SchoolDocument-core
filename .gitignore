@@ -1,4 +1,5 @@
 #.gititignore
 
 /.metadata
+/.recommenders
 /SchoolDocumentCore
