@@ -1,4 +1,4 @@
-package com.github.axelandre42.schooldoc.core.api.interfaces;
+package com.github.axelandre42.schooldoc.core.api.docs;
 
 import java.util.ArrayList;
 
